@@ -1,0 +1,25 @@
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/MyFirstApp.ap_ \
+ : /home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/drawable/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/drawable-hdpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/drawable-ldpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/drawable-mdpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/drawable-xhdpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/values/strings.xml \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/res/xml/config.xml \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/res/drawable/icon.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/_where-is-www.txt \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/css \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/img \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/index.html \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/js \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/cordova.js \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/cordova_plugins.js \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/css/index.css \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/img/logo.png \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/assets/www/js/index.js \
+/home/sohail/Documents/MyProjects/Mobile-Dev/Learn-Cordova-by-Doing/My-First-App/platforms/android/ant-build/AndroidManifest.xml \
